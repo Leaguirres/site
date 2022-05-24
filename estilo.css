@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: #8a2be2; /*cor de fundo*/
+    text-align: center; /*alinhar no centro*/
+    padding-top: 100px; /*distancia do topo*/
+    font:normal 16px arial, sans-serif;
+}
+
+section{
+    background-color: rgb(244, 10, 252);
+    margin: auto; 
+    width: 500px; /*largura*/
+    border-radius: 10px; /*arredonda a borda*/
+    padding: 10px;
+}
+
+div{
+    padding: 10px;
+}
+
+#resultado{
+    width: 300px;
+    height: 200px; /*altura*/
+    border: 1px solid black;
+    text-align: center; /*alinhar texto*/
+    margin: auto; /*alinhar quadrado*/
+}
+
+footer{
+    margin-top: 10px;
+}
